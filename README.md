@@ -12,7 +12,7 @@ A Telegram Torrent, youtube-dl Leecher, and rClone / Telegram Uploader!
 Simply clone the repository and run the main file:
 
 ```sh
-git clone https://github.com/SpEcHiDe/PublicLeech.git
+git clone https://github.com/kuanidonya/PublicLeech.git
 cd PublicLeech
 python3 -m venv venv
 . ./venv/bin/activate
